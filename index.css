@@ -1,0 +1,25 @@
+body {
+    background-color: red;
+}
+
+.calc {
+    display: inline-block;
+    background-color: yellow;
+    padding: 20px;  
+}
+
+.calculatored {
+    text-align: center;
+}
+
+#aaa {
+    display: block;
+    min-width: 150px;
+    width: auto;
+    height: auto;
+    background-color: white;
+    padding: 20px;   
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+
