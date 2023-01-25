@@ -35,5 +35,3 @@ $aaa.innerHTML+=`<p></p>` + $number1.value + `*` + $number2.value + `=` + $resul
 
 }
 
-localStorage.setItem('myCat', 'Tom')
-$aaa.innerHTML = localStorage.getItem('myCat')
