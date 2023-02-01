@@ -12,7 +12,7 @@ body {
     text-align: center;
 }
 
-#aaa {
+#mathContainer {
     display: block;
     min-width: 150px;
     width: auto;
